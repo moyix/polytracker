@@ -104,7 +104,7 @@ setup(
     install_requires=[
         "blight~=0.0.47",
         "cxxfilt~=0.2.2",
-        "docker~=4.4.0",
+        "docker~=6.1.3",
         "graphviz~=0.14.1",
         "intervaltree~=3.0.2",
         "networkx~=2.4",
